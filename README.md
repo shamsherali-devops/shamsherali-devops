@@ -1,81 +1,64 @@
-Absolutely, Shamsher! Here's your animated GitHub README using HTML and CSS, now tailored to highlight your expertise in **software engineering**, **DevOps**, and **business analysis**—with a sleek, professional tone and subtle animation to make it pop:
+# 👨‍💻 Shamsher Ali — Software Engineer | DevOps Specialist | Business Analyst  
+🚀 *Engineering scalable solutions. Automating workflows. Driving business impact.*
+
+![GitHub followers](https://img.shields.io/github/followers/shamsherali?style=social)
+![GitHub stars](https://img.shields.io/github/stars/shamsherali?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=shamsherali&color=blue)
 
 ---
 
-### 💻 Animated GitHub README (HTML + CSS)
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Shamsher Ali - GitHub Profile</title>
-  <style>
-    body {
-      background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
-      color: #ffffff;
-      font-family: 'Segoe UI', sans-serif;
-      text-align: center;
-      padding: 60px 20px;
-      animation: fadeIn 2s ease-in;
-    }
-
-    h1 {
-      font-size: 3em;
-      margin-bottom: 0.3em;
-      animation: slideDown 1.5s ease-out;
-    }
-
-    p {
-      font-size: 1.2em;
-      max-width: 800px;
-      margin: auto;
-      line-height: 1.6;
-      animation: fadeInText 2.5s ease-in;
-    }
-
-    .highlight {
-      color: #00c6ff;
-      font-weight: bold;
-    }
-
-    @keyframes fadeIn {
-      from { opacity: 0; }
-      to { opacity: 1; }
-    }
-
-    @keyframes slideDown {
-      from { transform: translateY(-40px); opacity: 0; }
-      to { transform: translateY(0); opacity: 1; }
-    }
-
-    @keyframes fadeInText {
-      from { opacity: 0; }
-      to { opacity: 1; }
-    }
-  </style>
-</head>
-<body>
-  <h1>👨‍💻 Shamsher Ali</h1>
-  <p>
-    Welcome to my GitHub! I'm a <span class="highlight">Software Engineer</span> with deep expertise in
-    <span class="highlight">DevOps automation</span>, <span class="highlight">cloud-native development</span>, and
-    <span class="highlight">business analysis</span>. I build scalable systems, automate workflows, and deliver
-    data-driven insights that drive strategic decisions.
-  </p>
-  <p>
-    My core strengths include:
-    <br><span class="highlight">CI/CD pipelines</span> | <span class="highlight">Power BI dashboards</span> |
-    <span class="highlight">MERN stack development</span> | <span class="highlight">Cloud workflows</span> |
-    <span class="highlight">SQL analytics</span>
-  </p>
-  <p>
-    Explore my repositories to see how I turn ideas into impact—through clean code, smart automation, and business intelligence.
-  </p>
-</body>
-</html>
-```
+## 🔧 Core Competencies  
+- 🛠 **DevOps Mastery**: GitHub Actions, Jenkins, Docker, Kubernetes, AWS & Azure  
+- 📊 **Business Intelligence**: Power BI dashboards, SQL analytics, stakeholder reporting  
+- 💻 **Software Engineering**: MERN stack, RESTful APIs, scalable architecture  
+- ⚙️ **Automation & Optimization**: Streamlined deployments, reduced overhead, faster delivery  
 
 ---
 
-You can host this as a GitHub Pages landing page or embed parts of it visually in your README using badges and GIFs. Want me to add interactive project cards or a typing animation for your tagline next? I can elevate it even further.
+## 📈 What I Deliver  
+- ✅ Seamless integration between development and operations  
+- 📊 Data-backed recommendations for business growth  
+- 🧼 Clean, maintainable code with measurable impact  
+- 🤝 Agile collaboration and client-centric solutions  
+
+---
+
+## 🛠️ Tech Stack & Tools  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Automation-blue?logo=githubactions)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoftazure)
+![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow?logo=powerbi)
+![MERN Stack](https://img.shields.io/badge/MERN%20Stack-Full%20Stack-green?logo=react)
+![SQL](https://img.shields.io/badge/SQL-Data-blue?logo=mysql)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red?logo=jenkins)
+
+---
+
+## 📂 Featured Projects  
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🔗 [CI/CD Pipeline Builder](https://github.com/shamsherali/cicd-pipeline) | Automated deployment pipeline with GitHub Actions & Jenkins | GitHub Actions, Jenkins, Docker |
+| 🔗 [Power BI Sales Dashboard](https://github.com/shamsherali/powerbi-dashboard) | Interactive dashboard for sales insights | Power BI, SQL |
+| 🔗 [MERN Portfolio Site](https://github.com/shamsherali/mern-portfolio) | Full-stack portfolio with dynamic routing | MongoDB, Express, React, Node.js |
+
+---
+
+## 📬 Let’s Connect  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shamsherali)  
+- 🌐 [Portfolio Website](https://shamsherali.dev)  
+- 📧 Email: `shamsher.dev@gmail.com`  
+- 🛠️ [Fiverr Profile](https://www.fiverr.com/shamsherali)
+
+---
+
+## 📊 GitHub Stats  
+![Shamsher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamsherali&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shamsherali&layout=compact&theme=radical)
+
+---
+
+> _“Code is poetry when it solves problems with elegance.”_  
+> _“Data is strategy when it speaks the language of business.”_
+
