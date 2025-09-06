@@ -1,4 +1,4 @@
-# 👨‍💻 Shamsher Ali — Software Engineer | DevOps Specialist | Business Analyst  
+# 👨‍💻 Software Engineer | DevOps Specialist | Business Analyst  
 🚀 *Engineering scalable solutions. Automating workflows. Driving business impact.*
 
 ![GitHub followers](https://img.shields.io/github/followers/shamsherali?style=social)
