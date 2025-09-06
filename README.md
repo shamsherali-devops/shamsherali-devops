@@ -46,10 +46,10 @@
 ---
 
 ## 📬 Let’s Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/in/shamsherali)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shamsher-devops)  
 - 🌐 [Portfolio Website](https://shamsherali.dev)  
-- 📧 Email: `shamsher.dev@gmail.com`  
-- 🛠️ [Fiverr Profile](https://www.fiverr.com/shamsherali)
+- 📧 Email: `shamsherdevp@gmail.com`  
+- 🛠️ [Fiverr Profile](https://www.fiverr.com/shamsherali) 
 
 ---
 
