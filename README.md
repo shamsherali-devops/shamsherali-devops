@@ -5,6 +5,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/shamsherali?style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=shamsherali&color=blue)
 
+## 🌐 [Portfolio Website](https://shamsherali-devops.github.io/my-portfolio/)  
 ---
 
 ## 🔧 Core Competencies  
@@ -47,7 +48,7 @@
 
 ## 📬 Let’s Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/shamsher-devops)  
-- 🌐 [Portfolio Website](https://shamsherali.dev)  
+- 🌐 [Portfolio Website](https://shamsherali-devops.github.io/my-portfolio/)  
 - 📧 Email: `shamsherdevp@gmail.com`  
 - 🛠️ [Fiverr Profile](https://www.fiverr.com/shamsherali) 
 
