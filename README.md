@@ -1,5 +1,5 @@
-# 👨‍💻 Software Engineer | DevOps Specialist | Business Analyst  
-🚀 *Engineering scalable solutions. Automating workflows. Driving business impact.*
+# ⚙️ DevOps Engineer | Cloud Architect | CI/CD Specialist  
+🚀 *Automating infrastructure. Accelerating delivery. Engineering reliability at scale.*
 
 ![GitHub followers](https://img.shields.io/github/followers/shamsherali?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/shamsherali?style=social)
@@ -8,41 +8,45 @@
 ## 🌐 [Portfolio Website](https://shamsherali-devops.github.io/my-portfolio/)  
 ---
 
-## 🔧 Core Competencies  
-- 🛠 **DevOps Mastery**: GitHub Actions, Jenkins, Docker, Kubernetes, AWS & Azure  
-- 📊 **Business Intelligence**: Power BI dashboards, SQL analytics, stakeholder reporting  
-- 💻 **Software Engineering**: MERN stack, RESTful APIs, scalable architecture  
-- ⚙️ **Automation & Optimization**: Streamlined deployments, reduced overhead, faster delivery  
+## 🔧 Core DevOps Expertise  
+- 🛠 **CI/CD Automation**: GitHub Actions, Jenkins, Gradle, GitLab CI  
+- 🐳 **Containerization & Orchestration**: Docker, Kubernetes, Helm  
+- ☁️ **Cloud Engineering**: AWS (EC2, S3, IAM), Azure DevOps, Terraform  
+- 🔐 **Security & Monitoring**: IAM policies, SSL, Prometheus, Grafana  
+- 📦 **Artifact & Version Control**: Git, Nexus, DockerHub  
+- 📈 **Performance Optimization**: Scalable pipelines, reduced deployment time, zero-downtime releases  
 
 ---
 
-## 📈 What I Deliver  
-- ✅ Seamless integration between development and operations  
-- 📊 Data-backed recommendations for business growth  
-- 🧼 Clean, maintainable code with measurable impact  
-- 🤝 Agile collaboration and client-centric solutions  
+## 🚀 What I Deliver  
+- ✅ End-to-end CI/CD pipelines with automated testing and rollback strategies  
+- 🔄 Infrastructure as Code (IaC) for reproducible, scalable environments  
+- 🧩 Seamless integration between dev, staging, and production workflows  
+- 📊 Real-time monitoring and alerting for system health and performance  
+- 🔒 Secure, compliant deployments with audit-ready configurations  
 
 ---
 
 ## 🛠️ Tech Stack & Tools  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Automation-blue?logo=githubactions)
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-blue?logo=githubactions)
+![Jenkins](https://img.shields.io/badge/Jenkins-Automation-red?logo=jenkins)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
 ![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoftazure)
-![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow?logo=powerbi)
-![MERN Stack](https://img.shields.io/badge/MERN%20Stack-Full%20Stack-green?logo=react)
-![SQL](https://img.shields.io/badge/SQL-Data-blue?logo=mysql)
-![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red?logo=jenkins)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform)
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-Dashboards-yellow?logo=grafana)
+![Git](https://img.shields.io/badge/Git-Version%20Control-black?logo=git)
 
 ---
 
-## 📂 Featured Projects  
+## 📂 Featured DevOps Projects  
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🔗 [CI/CD Pipeline Builder](https://github.com/shamsherali/cicd-pipeline) | Automated deployment pipeline with GitHub Actions & Jenkins | GitHub Actions, Jenkins, Docker |
-| 🔗 [Power BI Sales Dashboard](https://github.com/shamsherali/powerbi-dashboard) | Interactive dashboard for sales insights | Power BI, SQL |
-| 🔗 [MERN Portfolio Site](https://github.com/shamsherali/mern-portfolio) | Full-stack portfolio with dynamic routing | MongoDB, Express, React, Node.js |
+| 🔗 [CI/CD Pipeline Builder](https://github.com/shamsherali/cicd-pipeline) | Automated multi-stage deployment with rollback and notifications | GitHub Actions, Jenkins, Docker |
+| 🔗 [AWS IAM Cleanup CLI](https://github.com/shamsherali/aws-iam-cleanup) | CLI tool to manage and delete IAM users securely | AWS CLI, Bash |
+| 🔗 [K8s Monitoring Stack](https://github.com/shamsherali/k8s-monitoring) | Real-time cluster monitoring with Prometheus & Grafana | Kubernetes, Helm, Prometheus |
 
 ---
 
@@ -60,6 +64,5 @@
 
 ---
 
-> _“Code is poetry when it solves problems with elegance.”_  
-> _“Data is strategy when it speaks the language of business.”_
+> _“Infrastructure should be invisible. Delivery should be instant. Reliability should be engineered.”_
 
